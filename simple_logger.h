@@ -3,7 +3,7 @@
 #include <Arduino.h>
 #include <HardwareSerial.h>
 
-size_t const MAX_MESSAGE_LENGTH = 64;
+size_t const MAX_MESSAGE_LENGTH = 128;
 
 namespace logger
 {
